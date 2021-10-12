@@ -1,9 +1,18 @@
-# LG_R510 BIOS_MOD
+# <small>LG_R510 BIOS_MOD</small>
 
 <b>Input:</b>
 1. Original Last InsydeH20 Bios 3.5
 2. Original Bios Flasher
 3. _
+
+<b>Warning:</b>
+1. I am not responsible, whatever you do with the laptop you do everything at your own peril and risk.
+2. Attention: all changes in BIOS are saved in permanent flash memory.
+3. Sometimes a menu lock occurs, if you scroll through the menu categories and return to the desired item, the error disappears.
+
+<b>Photos:</b>
+
+<img src="https://github.com/denisandroid/LG-R510-BIOS-MOD/blob/master/photo/1.jpg" width="330" height="200" alt="Photo 1">
 
 <b>Changes:</b>
 1. Password setting <b>(DELETED)</b>
