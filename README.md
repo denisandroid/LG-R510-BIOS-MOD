@@ -1,7 +1,7 @@
-# <small>LG R510 BIOS MOD</small>
+# <small>LG R510 (QL8) BIOS MOD</small>
 
 <b>Input:</b>
-1. Original Last InsydeH20 Bios 3.5
+1. Original Last InsydeH20 Bios 3.5 (QL8L3F22)
 2. Original Bios Flasher
 3. _
 
