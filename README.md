@@ -1,4 +1,4 @@
-# <small>LG_R510 BIOS_MOD</small>
+# <small>LG R510 BIOS MOD</small>
 
 <b>Input:</b>
 1. Original Last InsydeH20 Bios 3.5
